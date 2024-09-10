@@ -1,3 +1,5 @@
+// C++ Program to check whether a number is positive or
+// negative
 #include <iostream>
 using namespace std;
 

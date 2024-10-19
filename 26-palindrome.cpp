@@ -16,7 +16,7 @@ string isPalindrome(string S)
 
 int main()
 {
-    string S = "Anuska";
+    string S = "AnaBanana";
 
     cout << isPalindrome(S);
 

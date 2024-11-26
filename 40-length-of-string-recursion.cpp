@@ -14,7 +14,7 @@ int cal(char* str)
 
 int main()
 {
-    char str[] = "GeeksforGeeks";
+    char str[] = "AnaIsCoding";
     cout << cal(str);
     return 0;
 }

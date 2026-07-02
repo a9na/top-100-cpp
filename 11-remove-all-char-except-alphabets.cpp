@@ -1,4 +1,4 @@
-// C++ Programto remove all characters from a string except
+// C++ Program to remove all characters from a string except
 // alphabets
 #include <cctype>
 #include <iostream>
